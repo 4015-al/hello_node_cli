@@ -1,0 +1,17 @@
+{
+  "name": "hello-node-cli",
+  "version": "1.0.0",
+  "description": "say 'Hello ', follwed by the provided args",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No test specified'"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "4015-dev",
+  "license": "ISC",
+  "bin": {
+    "say-hello": "./cli.js"
+  }
+}
